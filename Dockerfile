@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 
-MAINTAINER Pablo E. Bullian "pbullian@gmail.com"
+MAINTAINER pbullian
 
 ENV DEBIAN_FRONTEND=noninteractive
 
